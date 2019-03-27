@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "211976720019",
+    "firebase_url": "https://footballfinal-a1b3e.firebaseio.com",
+    "project_id": "footballfinal-a1b3e",
+    "storage_bucket": "footballfinal-a1b3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211976720019:android:f82ad470ec937e42",
+        "android_client_info": {
+          "package_name": "com.aviad.footballwithfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211976720019-ek051joijppet67b7jheh8m0oi3lvte2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aviad.footballwithfriends",
+            "certificate_hash": "bf47112783a898dbcd3bd5eae7461d8d4c20f3e3"
+          }
+        },
+        {
+          "client_id": "211976720019-cvlb2anb9um7mms0sofpjimo02ht4003.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP_KEvfzSnKAmGiIMzXHjWsRpOpMEoQSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211976720019-cvlb2anb9um7mms0sofpjimo02ht4003.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

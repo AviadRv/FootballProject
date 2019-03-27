@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/ic_chat"
+        android:title="@string/title_chats" />
+
+    <item
+        android:id="@+id/navigation_stopwatch"
+        android:icon="@drawable/ic_timer"
+        android:title="@string/title_stopwatch" />
+
+    <item
+        android:id="@+id/navigation_contacts"
+        android:icon="@drawable/ic_person"
+        android:title="@string/titke_contacts" />
+
+</menu>
